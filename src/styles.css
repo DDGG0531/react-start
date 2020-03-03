@@ -1,0 +1,14 @@
+/* 要套用到全局的樣式 會寫在這支檔案中 */
+@import-normalize;
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
